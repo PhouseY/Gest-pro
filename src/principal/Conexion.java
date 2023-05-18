@@ -13,6 +13,7 @@ public class Conexion {
     String password = "MCS/M9[QxqGK)Q@7";
     String driver = "com.mysql.cj.jdbc.Driver";
     Connection cx;
+    //prueba
     
     public Conexion(String bd){
         this.bd=bd;
